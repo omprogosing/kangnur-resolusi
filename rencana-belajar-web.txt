@@ -7,3 +7,7 @@ Rencana belajar Web :
    - Angular
 4. Bootstrap
 5. PHP
+   - Cake PHP
+   - Fuel PHP
+   - Phalcon
+6. UI/UX
