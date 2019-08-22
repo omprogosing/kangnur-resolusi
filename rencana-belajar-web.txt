@@ -10,4 +10,7 @@ Rencana belajar Web :
    - Cake PHP
    - Fuel PHP
    - Phalcon
+   - Laravel
+   - Codeigniter
+   - Symphony
 6. UI/UX
