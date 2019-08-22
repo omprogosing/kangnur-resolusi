@@ -7,3 +7,6 @@ Rencana belajar Web :
    - Angular
 4. Bootstrap
 5. PHP
+   - Laravel
+   - Codeigniter
+   - Symphony
