@@ -1,0 +1,8 @@
+Rencana belajar Web :
+1. Html
+2. Css
+3. Javascript
+   - ES6
+   - Vue JS
+   - Angular
+4. Bootstrap
