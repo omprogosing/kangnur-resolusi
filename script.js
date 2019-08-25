@@ -1,1 +1,3 @@
-console.log("tes");
+function mahasiswa(params) {
+    
+}
