@@ -1,3 +1,1 @@
-function Mahasiswa(nama, alamat, jurusan){
-    
-}
+console.log("tes");
